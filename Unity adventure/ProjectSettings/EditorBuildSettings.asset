@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: e0b873a4eca11484c86a071f31ef4b8a
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: 65a6ec0a969dbee4a8fe5330c5d49d85
+  - enabled: 1
+    path: Assets/Scenes/house.unity
+    guid: 23b81b4ad2bdb86428fcca44c5e0e015
+  - enabled: 1
+    path: Assets/Scenes/cave.unity
+    guid: bbe5902d8eda666418e521d9d912d3e4
+  - enabled: 1
+    path: Assets/Scenes/passage.unity
+    guid: dff2fe93a28a727469e0067ac9a3b36e
+  - enabled: 1
+    path: Assets/Scenes/wonderland.unity
+    guid: f2477d9b53cbda34786e73ca888b94f6
+  - enabled: 1
+    path: Assets/Scenes/wonderlandQuestOne.unity
+    guid: abcff9795143c4f40bf4a73bb93dbf94
+  - enabled: 1
+    path: Assets/Scenes/wonderlandQuestTwo.unity
+    guid: 8cd5a9d0775e43e44b2c852671d0c219
+  - enabled: 1
+    path: Assets/Scenes/wonderlandQuestThree.unity
+    guid: 1a93145e7341a944d9fcb313d5e80ca2
+  - enabled: 1
+    path: Assets/Scenes/swampLand.unity
+    guid: cab97399ba0d63148b25430a543ba10a
+  - enabled: 1
+    path: Assets/Scenes/swampPassage.unity
+    guid: 535d8878023a17f499324dd392bb0759
+  - enabled: 1
+    path: Assets/Scenes/forest.unity
+    guid: 576c0e3ff26165949928230d81fb9b1c
+  - enabled: 1
+    path: Assets/Scenes/lava.unity
+    guid: fab562a6674b86049a23efdf3f129cf6
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: 1bdfcc78d7e7d804a83a93d621e4de55
+  - enabled: 1
+    path: Assets/Scenes/castle.unity
+    guid: 105152744c7313f4cbf5242d691e4588
+  m_configObjects: {}
